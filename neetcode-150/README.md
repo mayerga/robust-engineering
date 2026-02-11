@@ -1,12 +1,12 @@
 # NeetCode 150 Progress Tracker 🚀
 
-En esta sección documento mi resolución de los 150 problemas esenciales para dominar algoritmos y estructuras de datos.
+In this section, I document my solutions to the 150 essential problems to master algorithms and data structures.
 
 ---
 
-## 📊 Resumen de Categorías
+## 📊 Category Summary
 
-| Categoría | Problemas | Estado |
+| Category | Problems | Status |
 | :--- | :---: | :---: |
 | [Arrays & Hashing](#arrays--hashing) | 9 | [ ] 0/9 |
 | [Two Pointers](#two-pointers) | 5 | [ ] 0/5 |
@@ -29,10 +29,10 @@ En esta sección documento mi resolución de los 150 problemas esenciales para d
 
 ---
 
-## 📋 Listado de Problemas
+## 📋 Problem List
 
 ### Arrays & Hashing
-| Status | Problema | Dificultad | Enlaces |
+| Status | Problem | Difficulty | Links |
 | :---: | :--- | :---: | :---: |
 | [ ] | Contains Duplicate | 🟢 Easy | [NeetCode](https://neetcode.io/problems/duplicate-integer?list=neetcode150) / [LeetCode](https://leetcode.com/problems/contains-duplicate/) |
 | [ ] | Valid Anagram | 🟢 Easy | [NeetCode](https://neetcode.io/problems/is-anagram?list=neetcode150) / [LeetCode](https://leetcode.com/problems/valid-anagram/) |
@@ -45,7 +45,7 @@ En esta sección documento mi resolución de los 150 problemas esenciales para d
 | [ ] | Longest Consecutive Sequence | 🟡 Medium | [NeetCode](https://neetcode.io/problems/longest-consecutive-sequence?list=neetcode150) / [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) |
 
 ### Two Pointers
-| Status | Problema | Dificultad | Enlaces |
+| Status | Problem | Difficulty | Links |
 | :---: | :--- | :---: | :---: |
 | [ ] | Valid Palindrome | 🟢 Easy | [NeetCode](https://neetcode.io/problems/is-palindrome?list=neetcode150) / [LeetCode](https://leetcode.com/problems/valid-palindrome/) |
 | [ ] | Two Sum II Input Array Is Sorted | 🟡 Medium | [NeetCode](https://neetcode.io/problems/two-integer-sum-ii?list=neetcode150) / [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
@@ -54,7 +54,7 @@ En esta sección documento mi resolución de los 150 problemas esenciales para d
 | [ ] | Trapping Rain Water | 🔴 Hard | [NeetCode](https://neetcode.io/problems/trapping-rain-water?list=neetcode150) / [LeetCode](https://leetcode.com/problems/trapping-rain-water/) |
 
 ### Sliding Window
-| Status | Problema | Dificultad | Enlaces |
+| Status | Problem | Difficulty | Links |
 | :---: | :--- | :---: | :---: |
 | [ ] | Best Time to Buy And Sell Stock | 🟢 Easy | [NeetCode](https://neetcode.io/problems/buy-and-sell-crypto?list=neetcode150) / [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | [ ] | Longest Substring Without Repeating Characters | 🟡 Medium | [NeetCode](https://neetcode.io/problems/longest-substring-without-duplicates?list=neetcode150) / [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
@@ -64,7 +64,7 @@ En esta sección documento mi resolución de los 150 problemas esenciales para d
 | [ ] | Sliding Window Maximum | 🔴 Hard | [NeetCode](https://neetcode.io/problems/sliding-window-maximum?list=neetcode150) / [LeetCode](https://leetcode.com/problems/sliding-window-maximum/) |
 
 ### Stack
-| Status | Problema | Dificultad | Enlaces |
+| Status | Problem | Difficulty | Links |
 | :---: | :--- | :---: | :---: |
 | [ ] | Valid Parentheses | 🟢 Easy | [NeetCode](https://neetcode.io/problems/validate-parentheses?list=neetcode150) / [LeetCode](https://leetcode.com/problems/valid-parentheses/) |
 | [ ] | Min Stack | 🟡 Medium | [NeetCode](https://neetcode.io/problems/minimum-stack?list=neetcode150) / [LeetCode](https://leetcode.com/problems/min-stack/) |
@@ -74,7 +74,7 @@ En esta sección documento mi resolución de los 150 problemas esenciales para d
 | [ ] | Largest Rectangle In Histogram | 🔴 Hard | [NeetCode](https://neetcode.io/problems/largest-rectangle-in-histogram?list=neetcode150) / [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/) |
 
 ### Binary Search
-| Status | Problema | Dificultad | Enlaces |
+| Status | Problem | Difficulty | Links |
 | :---: | :--- | :---: | :---: |
 | [ ] | Binary Search | 🟢 Easy | [NeetCode](https://neetcode.io/problems/binary-search?list=neetcode150) / [LeetCode](https://leetcode.com/problems/binary-search/) |
 | [ ] | Search a 2D Matrix | 🟡 Medium | [NeetCode](https://neetcode.io/problems/search-2d-matrix?list=neetcode150) / [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) |
@@ -85,7 +85,7 @@ En esta sección documento mi resolución de los 150 problemas esenciales para d
 | [ ] | Median of Two Sorted Arrays | 🔴 Hard | [NeetCode](https://neetcode.io/problems/median-of-two-sorted-arrays?list=neetcode150) / [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
 
 ### Linked List
-| Status | Problema | Dificultad | Enlaces |
+| Status | Problem | Difficulty | Links |
 | :---: | :--- | :---: | :---: |
 | [ ] | Reverse Linked List | 🟢 Easy | [NeetCode](https://neetcode.io/problems/reverse-a-linked-list?list=neetcode150) / [LeetCode](https://leetcode.com/problems/reverse-linked-list/) |
 | [ ] | Merge Two Sorted Lists | 🟢 Easy | [NeetCode](https://neetcode.io/problems/merge-two-sorted-linked-lists?list=neetcode150) / [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) |
@@ -100,7 +100,7 @@ En esta sección documento mi resolución de los 150 problemas esenciales para d
 | [ ] | Reverse Nodes In K Group | 🔴 Hard | [NeetCode](https://neetcode.io/problems/reverse-nodes-in-k-group?list=neetcode150) / [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/) |
 
 ### Trees
-| Status | Problema | Dificultad | Enlaces |
+| Status | Problem | Difficulty | Links |
 | :---: | :--- | :---: | :---: |
 | [ ] | Invert Binary Tree | 🟢 Easy | [NeetCode](https://neetcode.io/problems/invert-a-binary-tree?list=neetcode150) / [LeetCode](https://leetcode.com/problems/invert-binary-tree/) |
 | [ ] | Maximum Depth of Binary Tree | 🟢 Easy | [NeetCode](https://neetcode.io/problems/depth-of-binary-tree?list=neetcode150) / [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
@@ -119,7 +119,7 @@ En esta sección documento mi resolución de los 150 problemas esenciales para d
 | [ ] | Serialize And Deserialize Binary Tree | 🔴 Hard | [NeetCode](https://neetcode.io/problems/serialize-and-deserialize-binary-tree?list=neetcode150) / [LeetCode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |
 
 ### Heap / Priority Queue
-| Status | Problema | Dificultad | Enlaces |
+| Status | Problem | Difficulty | Links |
 | :---: | :--- | :---: | :---: |
 | [ ] | Kth Largest Element In a Stream | 🟢 Easy | [NeetCode](https://neetcode.io/problems/kth-largest-integer-in-a-stream?list=neetcode150) / [LeetCode](https://leetcode.com/problems/kth-largest-element-in-a-stream/) |
 | [ ] | Last Stone Weight | 🟢 Easy | [NeetCode](https://neetcode.io/problems/last-stone-weight?list=neetcode150) / [LeetCode](https://leetcode.com/problems/last-stone-weight/) |
@@ -130,7 +130,7 @@ En esta sección documento mi resolución de los 150 problemas esenciales para d
 | [ ] | Find Median From Data Stream | 🔴 Hard | [NeetCode](https://neetcode.io/problems/find-median-in-a-data-stream?list=neetcode150) / [LeetCode](https://leetcode.com/problems/find-median-from-data-stream/) |
 
 ### Backtracking
-| Status | Problema | Dificultad | Enlaces |
+| Status | Problem | Difficulty | Links |
 | :---: | :--- | :---: | :---: |
 | [ ] | Subsets | 🟡 Medium | [NeetCode](https://neetcode.io/problems/subsets?list=neetcode150) / [LeetCode](https://leetcode.com/problems/subsets/) |
 | [ ] | Combination Sum | 🟡 Medium | [NeetCode](https://neetcode.io/problems/combination-target-sum?list=neetcode150) / [LeetCode](https://leetcode.com/problems/combination-sum/) |
@@ -144,14 +144,14 @@ En esta sección documento mi resolución de los 150 problemas esenciales para d
 | [ ] | N Queens | 🔴 Hard | [NeetCode](https://neetcode.io/problems/n-queens?list=neetcode150) / [LeetCode](https://leetcode.com/problems/n-queens/) |
 
 ### Tries
-| Status | Problema | Dificultad | Enlaces |
+| Status | Problem | Difficulty | Links |
 | :---: | :--- | :---: | :---: |
 | [ ] | Implement Trie Prefix Tree | 🟡 Medium | [NeetCode](https://neetcode.io/problems/implement-prefix-tree?list=neetcode150) / [LeetCode](https://leetcode.com/problems/implement-trie-prefix-tree/) |
 | [ ] | Design Add And Search Words Data Structure | 🟡 Medium | [NeetCode](https://neetcode.io/problems/design-word-search-data-structure?list=neetcode150) / [LeetCode](https://leetcode.com/problems/design-add-and-search-words-data-structure/) |
 | [ ] | Word Search II | 🔴 Hard | [NeetCode](https://neetcode.io/problems/search-for-word-ii?list=neetcode150) / [LeetCode](https://leetcode.com/problems/word-search-ii/) |
 
 ### Graphs
-| Status | Problema | Dificultad | Enlaces |
+| Status | Problem | Difficulty | Links |
 | :---: | :--- | :---: | :---: |
 | [ ] | Number of Islands | 🟡 Medium | [NeetCode](https://neetcode.io/problems/count-number-of-islands?list=neetcode150) / [LeetCode](https://leetcode.com/problems/number-of-islands/) |
 | [ ] | Max Area of Island | 🟡 Medium | [NeetCode](https://neetcode.io/problems/max-area-of-island?list=neetcode150) / [LeetCode](https://leetcode.com/problems/max-area-of-island/) |
@@ -168,7 +168,7 @@ En esta sección documento mi resolución de los 150 problemas esenciales para d
 | [ ] | Word Ladder | 🔴 Hard | [NeetCode](https://neetcode.io/problems/word-ladder?list=neetcode150) / [LeetCode](https://leetcode.com/problems/word-ladder/) |
 
 ### Advanced Graphs
-| Status | Problema | Dificultad | Enlaces |
+| Status | Problem | Difficulty | Links |
 | :---: | :--- | :---: | :---: |
 | [ ] | Network Delay Time | 🟡 Medium | [NeetCode](https://neetcode.io/problems/network-delay-time?list=neetcode150) / [LeetCode](https://leetcode.com/problems/network-delay-time/) |
 | [ ] | Reconstruct Itinerary | 🔴 Hard | [NeetCode](https://neetcode.io/problems/reconstruct-flight-path?list=neetcode150) / [LeetCode](https://leetcode.com/problems/reconstruct-itinerary/) |
@@ -178,7 +178,7 @@ En esta sección documento mi resolución de los 150 problemas esenciales para d
 | [ ] | Cheapest Flights Within K Stops | 🟡 Medium | [NeetCode](https://neetcode.io/problems/cheapest-flight-path?list=neetcode150) / [LeetCode](https://leetcode.com/problems/cheapest-flights-within-k-stops/) |
 
 ### 1-D Dynamic Programming
-| Status | Problema | Dificultad | Enlaces |
+| Status | Problem | Difficulty | Links |
 | :---: | :--- | :---: | :---: |
 | [ ] | Climbing Stairs | 🟢 Easy | [NeetCode](https://neetcode.io/problems/climbing-stairs?list=neetcode150) / [LeetCode](https://leetcode.com/problems/climbing-stairs/) |
 | [ ] | Min Cost Climbing Stairs | 🟢 Easy | [NeetCode](https://neetcode.io/problems/min-cost-climbing-stairs?list=neetcode150) / [LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/) |
@@ -194,7 +194,7 @@ En esta sección documento mi resolución de los 150 problemas esenciales para d
 | [ ] | Partition Equal Subset Sum | 🟡 Medium | [NeetCode](https://neetcode.io/problems/partition-equal-subset-sum?list=neetcode150) / [LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/) |
 
 ### 2-D Dynamic Programming
-| Status | Problema | Dificultad | Enlaces |
+| Status | Problem | Difficulty | Links |
 | :---: | :--- | :---: | :---: |
 | [ ] | Unique Paths | 🟡 Medium | [NeetCode](https://neetcode.io/problems/count-paths?list=neetcode150) / [LeetCode](https://leetcode.com/problems/unique-paths/) |
 | [ ] | Longest Common Subsequence | 🟡 Medium | [NeetCode](https://neetcode.io/problems/longest-common-subsequence?list=neetcode150) / [LeetCode](https://leetcode.com/problems/longest-common-subsequence/) |
@@ -209,7 +209,7 @@ En esta sección documento mi resolución de los 150 problemas esenciales para d
 | [ ] | Regular Expression Matching | 🔴 Hard | [NeetCode](https://neetcode.io/problems/regular-expression-matching?list=neetcode150) / [LeetCode](https://leetcode.com/problems/regular-expression-matching/) |
 
 ### Greedy
-| Status | Problema | Dificultad | Enlaces |
+| Status | Problem | Difficulty | Links |
 | :---: | :--- | :---: | :---: |
 | [ ] | Maximum Subarray | 🟡 Medium | [NeetCode](https://neetcode.io/problems/maximum-subarray?list=neetcode150) / [LeetCode](https://leetcode.com/problems/maximum-subarray/) |
 | [ ] | Jump Game | 🟡 Medium | [NeetCode](https://neetcode.io/problems/jump-game?list=neetcode150) / [LeetCode](https://leetcode.com/problems/jump-game/) |
@@ -221,7 +221,7 @@ En esta sección documento mi resolución de los 150 problemas esenciales para d
 | [ ] | Valid Parenthesis String | 🟡 Medium | [NeetCode](https://neetcode.io/problems/valid-parenthesis-string?list=neetcode150) / [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) |
 
 ### Intervals
-| Status | Problema | Dificultad | Enlaces |
+| Status | Problem | Difficulty | Links |
 | :---: | :--- | :---: | :---: |
 | [ ] | Insert Interval | 🟡 Medium | [NeetCode](https://neetcode.io/problems/insert-new-interval?list=neetcode150) / [LeetCode](https://leetcode.com/problems/insert-interval/) |
 | [ ] | Merge Intervals | 🟡 Medium | [NeetCode](https://neetcode.io/problems/merge-intervals?list=neetcode150) / [LeetCode](https://leetcode.com/problems/merge-intervals/) |
@@ -231,7 +231,7 @@ En esta sección documento mi resolución de los 150 problemas esenciales para d
 | [ ] | Minimum Interval to Include Each Query | 🔴 Hard | [NeetCode](https://neetcode.io/problems/minimum-interval-including-query?list=neetcode150) / [LeetCode](https://leetcode.com/problems/minimum-interval-to-include-each-query/) |
 
 ### Math & Geometry
-| Status | Problema | Dificultad | Enlaces |
+| Status | Problem | Difficulty | Links |
 | :---: | :--- | :---: | :---: |
 | [ ] | Rotate Image | 🟡 Medium | [NeetCode](https://neetcode.io/problems/rotate-matrix?list=neetcode150) / [LeetCode](https://leetcode.com/problems/rotate-image/) |
 | [ ] | Spiral Matrix | 🟡 Medium | [NeetCode](https://neetcode.io/problems/spiral-matrix?list=neetcode150) / [LeetCode](https://leetcode.com/problems/spiral-matrix/) |
@@ -243,7 +243,7 @@ En esta sección documento mi resolución de los 150 problemas esenciales para d
 | [ ] | Detect Squares | 🟡 Medium | [NeetCode](https://neetcode.io/problems/count-squares?list=neetcode150) / [LeetCode](https://leetcode.com/problems/detect-squares/) |
 
 ### Bit Manipulation
-| Status | Problema | Dificultad | Enlaces |
+| Status | Problem | Difficulty | Links |
 | :---: | :--- | :---: | :---: |
 | [ ] | Single Number | 🟢 Easy | [NeetCode](https://neetcode.io/problems/single-number?list=neetcode150) / [LeetCode](https://leetcode.com/problems/single-number/) |
 | [ ] | Number of 1 Bits | 🟢 Easy | [NeetCode](https://neetcode.io/problems/number-of-one-bits?list=neetcode150) / [LeetCode](https://leetcode.com/problems/number-of-1-bits/) |
