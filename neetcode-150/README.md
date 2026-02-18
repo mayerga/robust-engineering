@@ -45,9 +45,9 @@ In this section, I document my solutions to the 150 essential problems to master
 ### Arrays & Hashing
 | Status | Problem | Difficulty | Links |
 | :---: | :--- | :---: | :---: |
-| [🟡] | Contains Duplicate | 🟢 Easy | [NeetCode](https://neetcode.io/problems/duplicate-integer?list=neetcode150) / [LeetCode](https://leetcode.com/problems/contains-duplicate/) |
-| [⏳] | Valid Anagram | 🟢 Easy | [NeetCode](https://neetcode.io/problems/is-anagram?list=neetcode150) / [LeetCode](https://leetcode.com/problems/valid-anagram/) |
-| [ ] | Two Sum | 🟢 Easy | [NeetCode](https://neetcode.io/problems/two-integer-sum?list=neetcode150) / [LeetCode](https://leetcode.com/problems/two-sum/) |
+| [✅] | Contains Duplicate | 🟢 Easy | [NeetCode](https://neetcode.io/problems/duplicate-integer?list=neetcode150) / [LeetCode](https://leetcode.com/problems/contains-duplicate/) |
+| [🟡] | Valid Anagram | 🟢 Easy | [NeetCode](https://neetcode.io/problems/is-anagram?list=neetcode150) / [LeetCode](https://leetcode.com/problems/valid-anagram/) |
+| [⏳] | Two Sum | 🟢 Easy | [NeetCode](https://neetcode.io/problems/two-integer-sum?list=neetcode150) / [LeetCode](https://leetcode.com/problems/two-sum/) |
 | [ ] | Group Anagrams | 🟡 Medium | [NeetCode](https://neetcode.io/problems/anagram-groups?list=neetcode150) / [LeetCode](https://leetcode.com/problems/group-anagrams/) |
 | [ ] | Top K Frequent Elements | 🟡 Medium | [NeetCode](https://neetcode.io/problems/top-k-elements-in-list?list=neetcode150) / [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) |
 | [ ] | Encode and Decode Strings | 🟡 Medium | [NeetCode](https://neetcode.io/problems/string-encode-and-decode?list=neetcode150) / [LeetCode](https://leetcode.com/problems/encode-and-decode-strings/) |
