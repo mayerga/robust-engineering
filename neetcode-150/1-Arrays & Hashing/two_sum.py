@@ -24,5 +24,5 @@ class Solution:
 
 
 s = Solution()
-print(s.twoSum([3,4,5,6], 9))
+print(s.twoSum([4,5,6], 10))
 # print(s.twoSum([5,16,2,9], 1))
