@@ -7,7 +7,21 @@ Example 2: strs = ["x"] --> [["x"]]
 Example 3: strs = [""] --> [[""]]
 """
 from typing import List
+from collections import defaultdict
 
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        pass
+
+        my_dict = defaultdict(list)
+        print(my_dict)
+
+        for s in strs:
+            my_dict = sorted(s)
+            print(my_dict)
+
+        return []
+
+
+
+s = Solution()
+print(s.groupAnagrams(["act","pots","tops","cat","stop","hat"]))
