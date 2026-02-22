@@ -8,7 +8,21 @@ Example 1: nums = [3,4,5,6], target = 7 ---> [0,1]
 Example 2: nums = [4,5,6], target = 10 ---> [0,2]
 Example 3: nums = [5,5], target = 10 ---> [0,1]
 """
+from typing import List
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        pass
+        myDict = {}
+        for i, n in enumerate(nums):
+            complement = target - n
+            print(complement)
+            if complement in myDict:
+                return [myDict[complement], i]
+            else:
+                myDict[n] = i
+        return []
+
+
+s = Solution()
+print(s.twoSum([3,4,5,6], 9))
+# print(s.twoSum([5,16,2,9], 1))
